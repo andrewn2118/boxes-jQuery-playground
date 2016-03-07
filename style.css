@@ -41,3 +41,8 @@
 .boxType3 {
   background: blue;
 }
+
+.puppy {
+  background-image: url(http://www.kleekai.us/images/Index/OPIE.jpg);
+  background-size: 105%;
+}

@@ -26,7 +26,7 @@ $(function(){
     event.preventDefault();
     alert("Gotcha!");
   });
-  $(".box").on("click", function(event){
+  $(".box").click(function(event){
     $(event.target).toggleClass("puppy");
   });
   $("#container").click(function(event){
